@@ -9,7 +9,8 @@ The package contains the following files:
 - financial.mat: includes the adjacency matrix of the bipartite financial network
 
 ## Usage
-Please refer to the demo code file demo.m and the descriptions in each file for the detailed information
+Please refer to the demo code file demo.m and the descriptions in each file for the detailed information. 
+The code can be only used for academic purpose and please kindly cite our published paper.
 
 ## Reference
 Zhang, Si, et al. "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection." Proceedings of the 2017 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2017.
